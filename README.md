@@ -20,9 +20,16 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=soriano-glitch&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soriano-glitch&radius=16&theme=cotton-candy&area=true&order=5&custom_title=CODE%20OF%20MY%20WORK&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
@@ -50,6 +57,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=soriano-glitch.soriano-glitch&"  />
 </div>
 
 ###
